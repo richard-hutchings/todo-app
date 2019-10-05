@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Plan and Design App",
+      "completed": true
+    },
+    {
+      "id": 1,
+      "title": "Write Code and debug",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Check for Responsiveness",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Deploy",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "*** Done! ***",
+      "completed": true
+    },
+  ]
+}

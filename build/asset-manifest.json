@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a26b51c7.chunk.css",
+    "main.js": "/static/js/main.c8092a7c.chunk.js",
+    "main.js.map": "/static/js/main.c8092a7c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.0f45c7f2.js",
+    "runtime~main.js.map": "/static/js/runtime~main.0f45c7f2.js.map",
+    "static/css/2.faaa52d3.chunk.css": "/static/css/2.faaa52d3.chunk.css",
+    "static/js/2.85b7750a.chunk.js": "/static/js/2.85b7750a.chunk.js",
+    "static/js/2.85b7750a.chunk.js.map": "/static/js/2.85b7750a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1fef3bd6ca80bdfbd271e860c2c5a47f.js": "/precache-manifest.1fef3bd6ca80bdfbd271e860c2c5a47f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.faaa52d3.chunk.css.map": "/static/css/2.faaa52d3.chunk.css.map",
+    "static/css/main.a26b51c7.chunk.css.map": "/static/css/main.a26b51c7.chunk.css.map",
+    "static/media/App.css": "/static/media/beautifulOutlook.9e6a6f17.jpg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
